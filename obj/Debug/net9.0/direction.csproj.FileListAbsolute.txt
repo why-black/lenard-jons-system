@@ -1,0 +1,14 @@
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.AssemblyInfo.cs
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\csh_learn\direction\bin\Debug\net9.0\direction.exe
+c:\Users\user\Desktop\csh_learn\direction\bin\Debug\net9.0\direction.deps.json
+c:\Users\user\Desktop\csh_learn\direction\bin\Debug\net9.0\direction.runtimeconfig.json
+c:\Users\user\Desktop\csh_learn\direction\bin\Debug\net9.0\direction.dll
+c:\Users\user\Desktop\csh_learn\direction\bin\Debug\net9.0\direction.pdb
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.dll
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\refint\direction.dll
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.pdb
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\direction.genruntimeconfig.cache
+c:\Users\user\Desktop\csh_learn\direction\obj\Debug\net9.0\ref\direction.dll
